@@ -1,0 +1,6 @@
+{
+  "name": "Serene Routine",
+  "description": "Personal routine & health vitality companion featuring daily flows, wellness check-ins, vitals tracking, trends, and care plan management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
